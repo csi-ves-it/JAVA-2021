@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 > This repository contains the code utilized during CSI-VESIT's Java Workshop.
 
 The code is divided in the following parts:
