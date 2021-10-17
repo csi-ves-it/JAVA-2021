@@ -1,4 +1,4 @@
-//Just uncomment the code as required because both the intyerface and abstraction were covered in the same file
+//Just uncomment the code as required because both the interface and abstraction were covered in the same file
 
 
 // abstract class Bank{
